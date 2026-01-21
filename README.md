@@ -29,6 +29,10 @@ This project provides WuMing's（悟鸣） original Skills for personal learning
 openskills install chujianyun/skills --global
 ```
 
+## Contact
+
+![](https://mingmingruyue-hz.oss-cn-hangzhou.aliyuncs.com/2025/20260121123314733.jpg)
+
 ## License
 
 All Skill files in this project are licensed under [CC BY-NC-SA 4.0](LICENSE-CC-BY-NC-SA) (Attribution-NonCommercial-ShareAlike).

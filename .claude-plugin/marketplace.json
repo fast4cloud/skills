@@ -18,6 +18,15 @@
       "skills": [
         "./skills/prompt-optimizer"
       ]
+    },
+    {
+      "name": "sync-skills",
+      "description": "Automatically sync skills from multiple sources (Local, GitHub, skillsmp.com) to all installed AI coding tool directories. Supports Claude Code, GitHub Copilot, Cursor, Windsurf, and more.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/sync-skills"
+      ]
     }
   ]
 }

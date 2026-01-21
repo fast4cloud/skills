@@ -6,6 +6,7 @@ This project provides WuMing's（悟鸣） original Skills for personal learning
 | Skill Name | Description |
 |------------|-------------|
 | [prompt-optimizer](skills/prompt-optimizer/SKILL.md) | Prompt engineering expert that helps users craft optimized prompts using many proven frameworks. Use when users want to optimize prompts, improve AI instructions, create better prompts for specific tasks, or need help selecting the best prompt framework for their use case. |
+| [sync-skills](skills/sync-skills/README.md) | Automatically sync skills from multiple sources (Local, GitHub, skillsmp.com) to all installed AI coding tool directories (Claude Code, Cursor, Windsurf, etc.). |
 
 ## Usage
 

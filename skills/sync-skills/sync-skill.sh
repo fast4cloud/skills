@@ -22,6 +22,7 @@ TARGET_DIRS=(
   "$HOME/.gemini/skills"
   "$HOME/.codeium/windsurf/skills"
   "$HOME/.qwen/skills"
+  "$HOME/.qoder/skills"
 )
 
 # Detect source type
